@@ -407,6 +407,14 @@ export class PackageService {
                         favicon:"https://chocolatey.org/content/packageimages/libreoffice.5.2.4.svg",
                         selected:false
                     },
+                   name:"Customisation",
+                   software:[
+                    {
+                        name:"Rainmeter",
+                        command:"rainmeter",
+                        favicon:"https://chocolatey.org/content/packageimages/rainmeter.3.3.2.2609001.png",
+                        selected:false
+                    },
                     
                 ]
             }
