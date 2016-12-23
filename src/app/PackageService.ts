@@ -207,6 +207,12 @@ export class PackageService {
                         favicon:"https://chocolatey.org/content/packageimages/virtualbox.5.1.12.png",
                         selected:false
                     },
+		    {
+                        name:"TeamViewer",
+                        command:"teamviewer",
+                        favicon:"https://chocolatey.org/content/packageimages/teamviewer.12.0.72365.png",
+                        selected:false
+                    },
                     {
                         name:"Everything",
                         command:"everything",
