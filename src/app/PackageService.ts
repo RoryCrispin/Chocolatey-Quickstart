@@ -326,6 +326,12 @@ export class PackageService {
                         favicon:"https://chocolatey.org/content/packageimages/VisualStudioCode.1.8.1.png",
                         selected:false   
                     },
+   		    {
+                        name: "Notepad++",
+                        command: "notepadplusplus.install",
+                        favicon: "https://chocolatey.org/Content/Images/packageDefaultIcon.png",
+                        selected: false
+                    },
                     {
                         name:"Sublime 3",
                         command:"sublimetext3",
