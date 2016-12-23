@@ -1,6 +1,6 @@
 import { NewAppPage } from './app.po';
 
-describe('new-app App', function() {
+describe('Chocolatey-Quickstart App', function() {
   let page: NewAppPage;
 
   beforeEach(() => {
