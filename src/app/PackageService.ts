@@ -1,9 +1,8 @@
 import {SoftwarePackage} from "./SoftwarePackage"
 
-
 export class PackageService {
-    softwarePackages: SoftwarePackage[]   
-    
+    softwarePackages: SoftwarePackage[]
+
     constructor(){
         this.softwarePackages = [
             {
@@ -14,7 +13,7 @@ export class PackageService {
                         command:"googlechrome",
                         favicon:"https://chocolatey.org/content/packageimages/GoogleChrome.55.0.2883.87.svg",
                         selected:false
-                    }, 
+                    },
                     {
                         name:"Firefox",
                         command:"firefox",
@@ -213,8 +212,13 @@ export class PackageService {
                         command:"everything",
                         favicon:"https://chocolatey.org/content/packageimages/Everything.1.4.1809.png",
                         selected:false
+                    },
+                    {
+                        name:"Remote Server Administration Tools",
+                        command:"RSAT",
+                        favicon:"https://chocolatey.org/content/packageimages/RSAT.1.0.6.png",
+                        selected:false
                     }
-
                 ]
             },
             {
@@ -322,7 +326,6 @@ export class PackageService {
                         favicon:"https://chocolatey.org/content/packageimages/SublimeText3.3.0.0.3126.png",
                         selected:false
                     }
-
                 ]
             },
             {
@@ -376,7 +379,6 @@ export class PackageService {
                         selected:false
                     }
                 ]
-
             },
             {
                 name:"Productivity",
@@ -402,11 +404,8 @@ export class PackageService {
                     
                 ]
             }
-            
         ]
     }
-
-
 
     getSoftwareList() : SoftwarePackage[]{
         return this.softwarePackages;
