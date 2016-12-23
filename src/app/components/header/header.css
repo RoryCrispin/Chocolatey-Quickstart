@@ -1,0 +1,17 @@
+#header {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-left: 20px;
+
+    background-color: #eee;
+}
+
+#header h1 {
+    font-size: 63px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+}
+#header #headercontent {
+    font-size: 21px;
+    font-weight: 300;
+}

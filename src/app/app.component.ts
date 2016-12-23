@@ -1,10 +1,22 @@
 import { Component } from '@angular/core';
+import {subList} from './components/subList';
+import {SoftwareList} from './components/SoftwareList';
+import {header} from './components/header/header';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  template: `
+    <html>
+      <header> </header>
+      <SoftwareList> </SoftwareList>
+    </html>
+  `, 
+  styleUrls: ['app/app.component.css']
 })
-export class AppComponent {
-  title = 'app works!';
-}
+
+export class AppComponent  {
+  
+  }
+  
+ 
+
