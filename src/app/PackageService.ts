@@ -248,6 +248,12 @@ export class PackageService {
                 name:"Development",
                 software:[
                     {
+                      name:"Docker",
+                      command:"docker",
+                      favicon:"https://chocolatey.org/content/packageimages/docker.1.12.5.png",
+                      selected:false
+                    },
+                    {
                         name:"Java jre8", 
                         command:"jre8",
                         favicon:"https://chocolatey.org/content/packageimages/jre8.8.0.111.svg",
