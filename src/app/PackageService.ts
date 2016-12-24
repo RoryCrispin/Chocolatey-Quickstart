@@ -222,6 +222,35 @@ export class PackageService {
                 ]
             },
             {
+                name:"Utilities",
+                software:[
+                    {
+                        name:"TeamViewer",
+                        command:"teamviewer",
+                        favicon:"https://chocolatey.org/content/packageimages/teamviewer.12.0.72365.png",
+                        selected:false
+                    },
+                    {
+                        name:"WinDirStat",
+                        command:"windirstat",
+                        favicon:"https://chocolatey.org/content/packageimages/windirstat.1.1.2.20161210.svg",
+                        selected:false
+                    },
+                    {
+                        name:"FileZilla",
+                        command:"filezilla",
+                        favicon:"https://chocolatey.org/content/packageimages/filezilla.3.23.0.2.svg",
+                        selected:false
+                    },
+                    {
+                        name:"PuTTY",
+                        command:"putty",
+                        favicon:"https://chocolatey.org/content/packageimages/putty.0.67.png",
+                        selected:false
+                    }
+                ]
+            },
+            {
                 name:"Compression",
                 software:[
                     {
@@ -406,8 +435,7 @@ export class PackageService {
                         command:"libreoffice",
                         favicon:"https://chocolatey.org/content/packageimages/libreoffice.5.2.4.svg",
                         selected:false
-                    },
-                    
+                    },     
                 ]
             }
         ]
