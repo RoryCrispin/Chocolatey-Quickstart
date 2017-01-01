@@ -107,6 +107,12 @@ export class PackageService {
                         command:"thunderbird",
                         favicon:"https://chocolatey.org/content/packageimages/thunderbird.45.5.1.png",
                         selected:false
+                    },
+                    {
+                        name: "Slack",
+                        command: "slack",
+                        favicon: "https://chocolatey.org/content/packageimages/slack.1.1.0.png",
+                        selected: false
                     }
                 ]
             },
@@ -214,7 +220,7 @@ export class PackageService {
                         selected:false
                     },
                     {
-                        name:"Remote Server Administration Tools",
+                        name:"RSAT",
                         command:"RSAT",
                         favicon:"https://chocolatey.org/content/packageimages/RSAT.1.0.6.png",
                         selected:false
@@ -350,6 +356,12 @@ export class PackageService {
                         selected:false
                     },
                     {
+                        name: "Notepad++",
+                        command: "notepadplusplus.install",
+                        favicon: "https://chocolatey.org/Content/Images/packageDefaultIcon.png",
+                        selected: false
+                    },
+                    {
                         name:"VS Code",
                         command:"visualstudiocode",
                         favicon:"https://chocolatey.org/content/packageimages/VisualStudioCode.1.8.1.png",
@@ -360,6 +372,12 @@ export class PackageService {
                         command:"sublimetext3",
                         favicon:"https://chocolatey.org/content/packageimages/SublimeText3.3.0.0.3126.png",
                         selected:false
+                    },
+                    {
+                        name: "RStudio",
+                        command: "r.studio",
+                        favicon: "https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png",
+                        selected: false
                     }
                 ]
             },
@@ -379,7 +397,7 @@ export class PackageService {
                         selected:false
                     },
                     {
-                       name:"Kaspersky VRT",
+                       name:"Kasp.. VRT",
                        command:"kvrt",
                        favicon:"https://chocolatey.org/content/packageimages/kvrt.2016.11.17.0831.png",
                        selected:false 
