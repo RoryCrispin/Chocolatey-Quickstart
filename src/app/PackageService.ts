@@ -250,6 +250,12 @@ export class PackageService {
                         favicon:"https://chocolatey.org/content/packageimages/virtualbox.5.1.12.png",
                         selected:false
                     },
+		    {
+                        name:"TeamViewer",
+                        command:"teamviewer",
+                        favicon:"https://chocolatey.org/content/packageimages/teamviewer.12.0.72365.png",
+                        selected:false
+                    },
                     {
                         name:"Everything",
                         command:"everything",
@@ -421,6 +427,12 @@ export class PackageService {
                         command:"visualstudiocode",
                         favicon:"https://chocolatey.org/content/packageimages/VisualStudioCode.1.8.1.png",
                         selected:false   
+                    },
+   		    {
+                        name: "Notepad++",
+                        command: "notepadplusplus.install",
+                        favicon: "https://chocolatey.org/Content/Images/packageDefaultIcon.png",
+                        selected: false
                     },
                     {
                         name:"Sublime 3",
