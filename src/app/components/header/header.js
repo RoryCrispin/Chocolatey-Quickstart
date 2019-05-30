@@ -15,7 +15,7 @@ var header = (function () {
     header = __decorate([
         core_1.Component({
             selector: 'header',
-            template: "\n\n    <div id=\"header\">\n\n        <h1> Get going quick!</h1>\n        \n        <div id=\"headercontent\">\n            Set up new systems with all the software you know and love, powered by \n            <a href=\"https://chocolatey.org/\">Choclatey</a>\n        </div>\n\n\n    </div>\n    \n    ",
+            template: "\n\n    <div id=\"header\">\n\n        <h1> Get going quick!</h1>\n        \n        <div id=\"headercontent\">\n            Set up new systems with all the software you know and love, powered by \n            <a href=\"https://chocolatey.org/\">Chocolatey</a>\n        </div>\n\n\n    </div>\n    \n    ",
             styleUrls: ['app/components/header/header.css']
         }), 
         __metadata('design:paramtypes', [])
