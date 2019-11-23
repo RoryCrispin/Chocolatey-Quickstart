@@ -23,7 +23,7 @@ export class PackageService {
                     {
                         name:"Opera",
                         command:"opera",
-                        favicon:"https://chocolatey.org/content/packageimages/Opera.42.0.2393.94.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/Opera.65.0.3467.48.svg",
                         selected:false
                     }
                 ]
