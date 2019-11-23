@@ -40,19 +40,19 @@ export class PackageService {
                     {
                         name:"GIMP",
                         command:"gimp",
-                        favicon:"https://chocolatey.org/content/packageimages/gimp.2.8.18.20161026.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/gimp.2.10.14.svg",
                         selected:false
                     },
                     {
                         name:"IrfanView",
                         command:"irfanview",
-                        favicon:"https://chocolatey.org/content/packageimages/IrfanView.4.42.0.20161201.png",
+                        favicon:"https://chocolatey.org/Content/Images/packageDefaultIcon-50x50.png",
                         selected:false
                     },
                     {
                         name:"Inkscape",
                         command:"inkscape",
-                        favicon:"https://chocolatey.org/content/packageimages/InkScape.0.91.0.20161126.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/greenshot.1.2.10.6.png",
                         selected:false
                     },
                     {
@@ -81,7 +81,7 @@ export class PackageService {
                     {
                         name:"Skype",
                         command:"skype",
-                        favicon:"https://chocolatey.org/content/packageimages/skype.7.29.0.102.png",
+                        favicon:"https://chocolatey.org/content/packageimages/skype.8.54.0.91.png",
                         selected:false
                     },
                     {
@@ -93,7 +93,7 @@ export class PackageService {
                     {
                         name:"Mumble",
                         command:"mumble",
-                        favicon:"https://chocolatey.org/content/packageimages/mumble.1.2.18.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/mumble.1.3.0.svg",
                         selected:false
                     },
                     {
@@ -105,13 +105,13 @@ export class PackageService {
                     {
                         name:"Thunderbird",
                         command:"thunderbird",
-                        favicon:"https://chocolatey.org/content/packageimages/thunderbird.45.5.1.png",
+                        favicon:"https://chocolatey.org/content/packageimages/thunderbird.68.2.2.png",
                         selected:false
                     },
                     {
                         name: "Slack",
                         command: "slack",
-                        favicon: "https://chocolatey.org/content/packageimages/slack.1.1.0.png",
+                        favicon: "https://chocolatey.org/content/packageimages/slack.4.1.2.png",
                         selected: false
                     }
                 ]
@@ -128,19 +128,19 @@ export class PackageService {
                     {
                         name:"foobar2000",
                         command:"foobar2000",
-                        favicon:"https://chocolatey.org/content/packageimages/foobar2000.1.3.13.png",
+                        favicon:"https://chocolatey.org/content/packageimages/foobar2000.1.4.8.png",
                         selected:false
                     },
                     {
                         name:"Spotify",
                         command:"spotify",
-                        favicon:"https://chocolatey.org/content/packageimages/spotify.1.0.33.106.png",
+                        favicon:"https://chocolatey.org/content/packageimages/spotify.1.1.19.480.png",
                         selected:false
                     },
                     {
                         name:"iTunes",
                         command:"itunes",
-                        favicon:"https://chocolatey.org/content/packageimages/iTunes.12.5.2.png",
+                        favicon:"https://chocolatey.org/content/packageimages/iTunes.12.10.2.3.png",
                         selected:false
                     },
                     {
@@ -152,13 +152,13 @@ export class PackageService {
                     {
                         name:"MPC-HC",
                         command:"mpc-hc",
-                        favicon:"https://chocolatey.org/content/packageimages/mpc-hc.1.7.10.20161107.png",
+                        favicon:"https://chocolatey.org/content/packageimages/mpc-hc.1.7.13.20180702.png",
                         selected:false
                     },
                     {
                         name:"K-Lite Codecs",
                         command:"k-litecodecpackfull",
-                        favicon:"https://chocolatey.org/content/packageimages/k-litecodecpackfull.12.7.5.png",
+                        favicon:"https://chocolatey.org/content/packageimages/k-litecodecpackmega.15.2.5.png",
                         selected:false
                     },
                     {
@@ -170,13 +170,13 @@ export class PackageService {
                     {
                         name:"Microsoft Silverlight",
                         command:"silverlight",
-                        favicon:"https://chocolatey.org/content/packageimages/Silverlight.5.1.50428.0.png",
+                        favicon:"https://chocolatey.org/content/packageimages/Silverlight.5.1.50907.0.png",
                         selected:false
                     },
                     {
                         name:"Kindle",
                         command:"kindle",
-                        favicon:"https://chocolatey.org/content/packageimages/Kindle.1.17.png",
+                        favicon:"https://chocolatey.org/content/packageimages/Kindle.1.25.52064.png",
                         selected:false
                     }
                   
@@ -200,7 +200,7 @@ export class PackageService {
                     {
                         name:"GOG Galaxy",
                         command:"goggalaxy",
-                        favicon:"https://chocolatey.org/content/packageimages/goggalaxy.1.1.9.56.png",
+                        favicon:"https://chocolatey.org/content/packageimages/goggalaxy.1.2.59.21.png",
                         selected:false
                     }
                 ]
@@ -223,7 +223,7 @@ export class PackageService {
                     {
                         name:"KeePass",
                         command:"keepass",
-                        favicon:"https://chocolatey.org/content/packageimages/keepass.2.34.png",
+                        favicon:"https://chocolatey.org/content/packageimages/keepass.2.43.png",
                         selected:false
                     },
                     {
@@ -235,7 +235,7 @@ export class PackageService {
                     {
                         name:"Adblock Plus for Firefox",
                         command:"adblockplusfirefox",
-                        favicon:"https://chocolatey.org/Content/Images/packageDefaultIcon-50x50.png",
+                        favicon:"https://chocolatey.org/content/packageimages/adblockplusfirefox.0.0.0.2.png",
                         selected:false
                     },
                     {
@@ -259,13 +259,13 @@ export class PackageService {
                     {
                         name:"RSAT",
                         command:"RSAT",
-                        favicon:"https://chocolatey.org/content/packageimages/RSAT.1.0.6.png",
+                        favicon:"https://chocolatey.org/content/packageimages/RSAT.2.1809.0.20190205.png",
                         selected:false
                     },
                     {
                         name:"VeraCrypt",
                         command:"veracrypt",
-                        favicon:"https://chocolatey.org/content/packageimages/veracrypt.1.19.png",
+                        favicon:"https://chocolatey.org/content/packageimages/veracrypt.1.24.20191121.png",
                         selected:false
                     }
                 ]
@@ -282,7 +282,7 @@ export class PackageService {
                     {
                         name:"Citrix Receiver",
                         command:"citrix-receiver",
-                        favicon:"https://chocolatey.org/content/packageimages/citrix-receiver.4.4.png",
+                        favicon:"https://chocolatey.org/content/packageimages/citrix-receiver.4.12.png",
                         selected:false
                     },
                     {
@@ -300,7 +300,7 @@ export class PackageService {
                     {
                         name:"PuTTY",
                         command:"putty",
-                        favicon:"https://chocolatey.org/content/packageimages/putty.0.67.png",
+                        favicon:"https://chocolatey.org/content/packageimages/putty.0.73.png",
                         selected:false
                     }
                 ]
@@ -317,7 +317,7 @@ export class PackageService {
                     {
                         name:"PeaZip",
                         command:"peazip",
-                        favicon:"https://chocolatey.org/content/packageimages/peazip.6.0.3.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/peazip.6.9.2.svg",
                         selected:false
                     },
                     {
@@ -377,7 +377,7 @@ export class PackageService {
                     {
                         name:"WinSCP",
                         command:"winscp",
-                        favicon:"https://chocolatey.org/content/packageimages/winscp.5.9.3.png",
+                        favicon:"https://chocolatey.org/content/packageimages/winscp.5.15.5.png",
                         selected:false
                     }, 
                    
@@ -401,7 +401,7 @@ export class PackageService {
                       {
                         name:"Eclipse",
                         command:"eclipse",
-                        favicon:"https://chocolatey.org/content/packageimages/eclipse.4.5.1.png",
+                        favicon:"https://chocolatey.org/content/packageimages/eclipse.4.13.png",
                         selected:false
                     },
                     {
@@ -442,7 +442,7 @@ export class PackageService {
                     {
                         name:"Malwarebytes",
                         command:"malwarebytes",
-                        favicon:"https://chocolatey.org/content/packageimages/malwarebytes.3.0.5.1299.png",
+                        favicon:"https://chocolatey.org/content/packageimages/malwarebytes.3.8.3.296513137.png",
                         selected:false
                     },
                     {
@@ -454,13 +454,13 @@ export class PackageService {
                     {
                        name:"Kasp.. VRT",
                        command:"kvrt",
-                       favicon:"https://chocolatey.org/content/packageimages/kvrt.2016.11.17.0831.png",
+                       favicon:"https://chocolatey.org/content/packageimages/kvrt.2019.06.24.1824.png",
                        selected:false 
                     },
                     {
                         name:"ClamWin",
                         command:"clamwin",
-                        favicon:"https://chocolatey.org/content/packageimages/clamwin.0.99.1.png",
+                        favicon:"https://chocolatey.org/Content/Images/packageDefaultIcon.png",
                         selected:false
                     }
                 ]
@@ -471,19 +471,19 @@ export class PackageService {
                     {
                         name:"Google Drive",
                         command:"googledrive",
-                        favicon:"https://chocolatey.org/content/packageimages/googledrive.1.32.4066.7445.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/googledrive.2.34.5075.1619.svg",
                         selected:false
                     },
                     {
                         name:"Dropbox",
                         command:"dropbox",
-                        favicon:"https://chocolatey.org/content/packageimages/dropbox.16.4.30.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/dropbox.85.4.155.svg",
                         selected:false
                     },
                     {
                         name:"OwnCloud",
                         command:"owncloud-client",
-                        favicon:"https://chocolatey.org/content/packageimages/owncloud-client.2.2.4.6408.png",
+                        favicon:"https://chocolatey.org/content/packageimages/owncloud-client.2.6.0.13018.png",
                         selected:false
                     }
                 ]
@@ -506,19 +506,19 @@ export class PackageService {
                     {
                         name:"Adobe Reader DC",
                         command:"adobereader",
-                        favicon:"https://chocolatey.org/content/packageimages/adobereader.2015.007.20033.01.png",
+                        favicon:"https://chocolatey.org/content/packageimages/adobereader.2019.021.20056.png",
                         selected:false
                     },  
                     {
                         name:"OpenOffice",
                         command:"openoffice",
-                        favicon:"https://chocolatey.org/content/packageimages/OpenOffice.4.1.3.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/OpenOffice.4.1.6.svg",
                         selected:false
                     }, 
                     {
                         name:"LibreOffice",
                         command:"libreoffice",
-                        favicon:"https://chocolatey.org/content/packageimages/libreoffice.5.2.4.svg",
+                        favicon:"https://chocolatey.org/content/packageimages/libreoffice-still.6.2.8.svg",
                         selected:false
                     },     
                 ]
